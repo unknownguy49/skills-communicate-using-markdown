@@ -16,3 +16,7 @@ class Hello
   }
 }
 ```
+
+- [X] Hello in Java
+- [X] Hello in Python
+- [ ] Hello in C
